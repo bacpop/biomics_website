@@ -9,8 +9,9 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Jane Doe"
-header_subheadline: "<b>Nutrition</b> Coach & <b>Chef</b> Consultant"
+header_headline: "SMBE Satellite Workshop on Pathogen Pangenome Evolution Between and Within
+their Hosts"
+header_subheadline: "Tokyo, Japan. 26-28th November 2024"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
@@ -18,3 +19,4 @@ header_subheadline: "<b>Nutrition</b> Coach & <b>Chef</b> Consultant"
 nav_to_top_title: "Return To Top"
 nav_to_top_weight: last
 ---
+

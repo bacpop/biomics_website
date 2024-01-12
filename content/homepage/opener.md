@@ -1,14 +1,13 @@
 ---
-title: "Welcome"
+title: "Details"
 weight: 1
 ---
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page. 
-The landing screen is meant to be visually striking.
+Key information:
+- Dates: 26-28th November 2024
+- Location: Tokyo, Japan
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user. 
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
+Please keep the dates for your diary. More information will follow in April
+including location information and preliminary schedule. The event will be
+hybrid: in-person and virtual participation will both be possible.
 
-> The belly rules the mind. --- spanish proverb
-
-By the way this welcome section won't show in the cover menu.
