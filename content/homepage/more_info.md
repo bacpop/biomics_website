@@ -1,24 +1,25 @@
 ---
-title: "More information on satellite meeting"
+title: "More information"
 header_menu_title: "About"
 navigation_menu_title: "About"
 weight: 3
 header_menu: true
 ---
-Keep an eye out for more specifics in April
+Keep an eye out for more specifics in April:
 
-### Location
+#### Registration
 
-Information to follow
+#### Location
 
-### Agenda
 
-Information to follow
 
-### Hybrid attendance
+#### Agenda
 
-Information to follow
 
-### Bursaries for early career researchers
 
-Information to follow
+#### Hybrid attendance
+
+
+
+#### Bursaries for early career researchers
+
