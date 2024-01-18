@@ -5,7 +5,13 @@ navigation_menu_title: "About"
 weight: 3
 header_menu: true
 ---
-Keep an eye out for more specifics in April:
+Keep an eye out for more specifics in April.
+
+The schedule will include:
+
+- Invited talks
+- Talks from submitted abstracts
+- Flash talks open to all participants
 
 #### Registration
 
