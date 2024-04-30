@@ -9,5 +9,5 @@ header_menu: true
 - [Jukka Corander](https://www.med.uio.no/imb/english/people/aca/jukkac/), University of Oslo
 - [Claire Gorrie](https://biomedicalsciences.unimelb.edu.au/research/emcra/researcher-profiles/claire-gorrie), University of Melbourne
 - [John Lees](https://www.ebi.ac.uk/research/lees/), EMBL-EBI
-- [Fiona Whelan](http://www.whelanlab.co.uk/), University of Nottingham
+- [Fiona Whelan](http://www.whelanlab.co.uk/), University of Manchester
 - [Koji Yahara](https://sites.google.com/site/kojiyahara/), National Institute of Infectious Diseases (Japan)
