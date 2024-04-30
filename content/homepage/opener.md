@@ -3,11 +3,12 @@ title: "Details"
 weight: 1
 ---
 
-Key information:
-- Dates: 26-28th November 2024 (tentative)
-- Location: Tokyo, Japan
+Key information and dates:
+- Dates: 26-28th November 2024.
+- Location: [Tokyo National Museum](https://www.tnm.jp/?lang=en), Ueno Park, Tokyo, Japan.
+- Abstract submission: Opens 1st June, closes 31st August.
+- Registration: Expected to open 1st July, closes 31st October.
 
-Please keep the dates for your diary. More information will follow in April
-including location information and preliminary schedule. The event will be
+The event will be
 hybrid: in-person and virtual (real-time or on-demand) participation will both be possible.
 
