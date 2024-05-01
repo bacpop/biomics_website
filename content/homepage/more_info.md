@@ -25,7 +25,9 @@ a diverse programme of speakers from all career stages.
 We do have a maximum number of on-site attendees slots available.
 
 #### Location
-[Tokyo National Museum](https://www.tnm.jp/?lang=en), Ueno Park, Tokyo, Japan.
+The conference will take place in the Auditorium in Japan Gallery at the
+[National Museum of Nature and Science](https://www.kahaku.go.jp/english/), located in
+Ueno Park, Tokyo, Japan.
 
 Major airports in Japan:
 * Haneda airport, Tokyo (30-45 minutes to venue)
