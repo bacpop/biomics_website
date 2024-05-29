@@ -62,3 +62,7 @@ Session chairs will ensure questions from the online audience are included in th
 We hope to offer a number of partial or full bursaries for early career researchers
 with accepted abstracts. This will be available during abstract submission, with
 more details to follow in June.
+
+
+#### Code of conduct
+Our code of conduct is the same as SMBE's, which can be found here: https://www.smbe.org/smbe/ABOUT/CodeofConduct.aspx
