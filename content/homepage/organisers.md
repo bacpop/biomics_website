@@ -1,7 +1,7 @@
 ---
 title: "Organisers"
 weight: 4
-header_menu: true
+header_menu: false
 ---
 
 - [Stephen Bentley](https://www.sanger.ac.uk/person/bentley-stephen-d/), Wellcome Sanger Institute

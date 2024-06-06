@@ -2,11 +2,9 @@
 title: "More information"
 header_menu_title: "About"
 navigation_menu_title: "About"
-weight: 3
+weight: 4
 header_menu: true
 ---
-
-Please email smbe-pangenomes at bacpop dot org to sign up for updates.
 
 #### Registration
 Registration: Expected to open 1st July, closes 31st October. A form will be added
@@ -60,8 +58,8 @@ Session chairs will ensure questions from the online audience are included in th
 
 #### Bursaries for early career researchers
 We hope to offer a number of partial or full bursaries for early career researchers
-with accepted abstracts. This will be available during abstract submission, with
-more details to follow in June.
+with accepted abstracts. This is available during abstract submission, please
+select 'yes' for the ECR option, and follow the details to submit your request.
 
 
 #### Code of conduct

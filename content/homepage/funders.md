@@ -1,7 +1,7 @@
 ---
 title: "Funders"
 weight: 5
-header_menu: true
+header_menu: false
 ---
 We are grateful to our funders, without whom we would not be able to organise this meeting:
 
