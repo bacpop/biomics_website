@@ -11,10 +11,10 @@ Registration: Expected to open 1st July, closes 31st October. A form will be add
 to this website.
 
 Registration costs:
-- $250: Senior researchers, industry attendees.
-- $150: Early career researchers. (A fee waiver will be offered on a case-by-case basis.)
-- $150: Local attendees (within Japan).
-- $20: Remote attendance.
+- £200: Senior researchers, industry attendees.
+- £120: Early career researchers. (A fee waiver will be offered on a case-by-case basis.)
+- £120: Local attendees (within Japan).
+- £15: Remote attendance.
 
 Registration includes access to all talks, the museum and a reception on the first evening.
 We are grateful for your contributions to the event, which allow us to put together
