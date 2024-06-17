@@ -27,3 +27,9 @@ have registered.
 Please note that your registration will not be confirmed until this payment has been received. We recommend paying the registration as soon as possible, the latest possible date will be 31st October but we cannot guarantee in-person places.
 
 _NB: If you are an ECR applying for a fee-waiver and have indicated this, we will hold your space until abstract decisions have been made._
+
+### Reduced registration fees
+
+If you are purchasing an ECR registration, please send proof of your ECR status (e.g. current employer contract, PhD certificate or similar) to smbe-pangenome-payment at bacpop dot org within 14 days.
+
+If you are purchasing a local registration, your address should be in Japan.

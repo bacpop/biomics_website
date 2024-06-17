@@ -32,8 +32,6 @@ Thursday afternoon:
 - Pangenomes & tools.
 - Evolutionary and epidemic modelling.
 
-A full schedule including confirmed speakers will be available in July.
-
 #### Hybrid attendance
 Virtual attendees will be able to stream the talks, or watch recordings after the event.
 Session chairs will ensure questions from the online audience are included in the sessions.
