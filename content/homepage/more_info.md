@@ -2,27 +2,10 @@
 title: "More information"
 header_menu_title: "About"
 navigation_menu_title: "About"
-weight: 4
+weight: 5
 header_menu: true
 ---
 
-#### Registration
-Registration: Expected to open 1st July, closes 31st October. A form will be added
-to this website.
-
-Registration costs:
-- £200: Senior researchers, industry attendees.
-- £120: Early career researchers. (A fee waiver will be offered on a case-by-case basis.)
-- £120: Local attendees (within Japan).
-- £15: Remote attendance.
-
-Registration includes access to all talks, the museum and a reception on the first evening.
-We are grateful for your contributions to the event, which allow us to put together
-a diverse programme of speakers from all career stages.
-
-We do have a maximum number of on-site attendees slots available.
-
-#### Location
 The conference will take place in the Auditorium in Japan Gallery at the
 [National Museum of Nature and Science](https://www.kahaku.go.jp/english/), located in
 Ueno Park, Tokyo, Japan.
@@ -49,7 +32,7 @@ Thursday afternoon:
 - Pangenomes & tools.
 - Evolutionary and epidemic modelling.
 
-A full schedule including confirmed speakers will be available in June.
+A full schedule including confirmed speakers will be available in July.
 
 #### Hybrid attendance
 Virtual attendees will be able to stream the talks, or watch recordings after the event.

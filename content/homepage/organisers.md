@@ -1,6 +1,6 @@
 ---
 title: "Organisers"
-weight: 4
+weight: 10
 header_menu: false
 ---
 
