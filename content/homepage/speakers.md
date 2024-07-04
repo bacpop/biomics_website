@@ -5,6 +5,7 @@ header_menu: true
 ---
 We have the following confirmed speakers so far:
 - [Hsiao-Han Chang](https://sites.google.com/view/hsiao-han-chang/home?authuser=0), _National Tsing Hua University, Taiwan_.
+- [Nicholas Croucher](https://profiles.imperial.ac.uk/n.croucher), _Imperial College London, UK_.
 - [Christophe Fraser](https://www.psi.ox.ac.uk/our-team/christophe-fraser-3), _University of Oxford, UK_.
 - [Jemma Geoghegan](https://micro.otago.ac.nz/our-people/teaching-research-and-support/jemma-geoghegan/), _University of Otago, New Zealand_.
 - [Rebecca Gladstone](https://www.med.uio.no/imb/english/people/aca/rebeccgl/), _University of Oslo, Norway_.
