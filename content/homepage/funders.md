@@ -6,4 +6,5 @@ header_menu: false
 We are grateful to our funders, without whom we would not be able to organise this meeting:
 
 - [Society of Molecular Biology and Evolution](https://smbe.org).
+- [Microbiology Society](https://microbiologysociety.org/).
 - [European Molecular Biology Laboratory](https://www.embl.org/about/info/infection-biology/).
