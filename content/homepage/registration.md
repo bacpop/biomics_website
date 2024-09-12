@@ -26,6 +26,9 @@ have registered.
 ### Registration payments
 Please note that your registration will not be confirmed until this payment has been received. We recommend paying the registration as soon as possible, the latest possible date will be 31st October but we cannot guarantee in-person places.
 
+Please note the payment link will not be sent immediate after your registration.
+We will send the relevant links for part two in October and November.
+
 _NB: If you are an ECR applying for a fee-waiver and have indicated this, we will hold your space until abstract decisions have been made._
 
 ### Reduced registration fees
