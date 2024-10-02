@@ -3,7 +3,7 @@ title: "Speakers"
 weight: 6
 header_menu: true
 ---
-We have the following confirmed speakers so far:
+We have the following confirmed speakers:
 - [Hsiao-Han Chang](https://sites.google.com/view/hsiao-han-chang/home?authuser=0), _National Tsing Hua University, Taiwan_.
 - [Nicholas Croucher](https://profiles.imperial.ac.uk/n.croucher), _Imperial College London, UK_.
 - [Christophe Fraser](https://www.psi.ox.ac.uk/our-team/christophe-fraser-3), _University of Oxford, UK_.
@@ -18,5 +18,3 @@ We have the following confirmed speakers so far:
 - [Leah Roberts](https://www.qut.edu.au/about/our-people/academic-profiles/l35.roberts), _Queensland University of Technology, Australia_.
 - [Liam Shaw](https://www.biology.ox.ac.uk/people/dr-liam-shaw), _University of Oxford, UK_.
 - [Gerry Tonkin-Hill](https://gthlab.au/about/), _University of Melbourne, Australia_.
-
-A final schedule will be released in September.

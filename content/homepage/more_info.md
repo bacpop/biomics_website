@@ -19,18 +19,8 @@ Visa details can be found on the [ministry of foreign affairs website](https://w
 including a [list of nationalities which can obtain an exemption](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html).
 
 #### Agenda
-The schedule will include:
-- Invited talks
-- Talks from submitted abstracts
-- Flash talks open to all participants
+A [provisional schedule]({{< ref "schedule" >}} "schedule") is now available.
 
-There will be five scientific sessions mapping to the topics above, running from Tuesday afternoon until
-Thursday afternoon:
-- Metagenomics.
-- Selection and evolution.
-- Emerging infectious diseases and pandemics.
-- Pangenomes & tools.
-- Evolutionary and epidemic modelling.
 
 #### Hybrid attendance
 Virtual attendees will be able to stream the talks, or watch recordings after the event.
