@@ -32,11 +32,11 @@ Day 2 (27th November)
 |  | 10:20am | Rebecca Gladstone | Diversification of ABC transporter-dependent capsular K-loci in E. coli  |
 |  | 10:40am | Gherard Batisti Biffignandi | Genes on the lam: how fast can AMR-MGEs spread in a bacterial population? |
 | Break | 10:50am |  |  |
-|  | 11:10am | Adam Dinan | A pan-transcriptomic view of bacterial evolution |
-|  | 11:20am | Sam Horsfield | A Large Language Model for studying bacterial genome architecture,   population structure and epidemiology |
+|  | 11:20am | Adam Dinan | A pan-transcriptomic view of bacterial evolution |
+|  | 11:30am | Sam Horsfield | A Large Language Model for studying bacterial genome architecture,   population structure and epidemiology |
 |  | 11:40am | Evangelos Mourkas |        Evolution of   serum resistance in Campylobacter jejuni bacteremia isolates |
 |  |  |  |  |
-| Lunch | 12pm |  |  |
+| Lunch | 12:00pm |  |  |
 |  |  |  |  |
 | **Session 3: Emerging infectious diseases and pandemics** | 2pm | Jemma Geoghegan | Tracking SARS-CoV-2 in New Zealand: insights from genomics |
 |  | 2:20pm | Gemma Murray | The emergence of a zoonotic bacterial pathogen from within the pig   respiratory microbiota |
