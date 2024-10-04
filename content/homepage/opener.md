@@ -13,3 +13,5 @@ Key information and dates:
 The event will be
 hybrid: in-person and virtual (real-time or on-demand) participation will both be possible.
 
+Please note there is no official conference accommodation ot travel partner. Any emails
+you receive claiming to be one are fake.
