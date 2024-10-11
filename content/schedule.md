@@ -38,16 +38,16 @@ Day 2 (27th November)
 |  |  |  |  |
 | Lunch | 12:00pm |  |  |
 |  |  |  |  |
-| **Session 3: Emerging infectious diseases and pandemics** | 2pm | Jemma Geoghegan | Tracking SARS-CoV-2 in New Zealand: insights from genomics |
-|  | 2:20pm | Gemma Murray | The emergence of a zoonotic bacterial pathogen from within the pig   respiratory microbiota |
-|  | 2:30pm | Rebecca French |  Comprehensive infectome analysis   of an emerging disease in the critically endangered Kakapo using total RNA   sequencing |
-|  | 2:40pm | Eunice Njuguna | The Impact of Pneumococcal Conjugate Vaccine (PCV10) on Pneumococcal   Population Structure in Kilifi, Kenya: A Whole Genome Sequencing Analysis |
-| Break | 2:50pm |  |  |
-|  | 3:10pm | Harry Chown | Utilising pangenomics to study the human fungal pathogen Aspergillus   fumigatus |
-|  | 3:20pm | Jumpei Ito | Predicting Viral Antigenicity, Fitness, and Evolution |
-| **Lightning talks II** | 3:50pm |  |  |
+| **Session 3: Emerging infectious diseases and pandemics** | 3:30pm | Jemma Geoghegan | Tracking SARS-CoV-2 in New Zealand: insights from genomics |
+|  | 3:50pm | Gemma Murray | The emergence of a zoonotic bacterial pathogen from within the pig   respiratory microbiota |
+|  | 4:00pm | Rebecca French |  Comprehensive infectome analysis   of an emerging disease in the critically endangered Kakapo using total RNA   sequencing |
+|  | 4:10pm | Eunice Njuguna | The Impact of Pneumococcal Conjugate Vaccine (PCV10) on Pneumococcal   Population Structure in Kilifi, Kenya: A Whole Genome Sequencing Analysis |
+| Break | 4:20pm |  |  |
+|  | 4:40pm | Harry Chown | Utilising pangenomics to study the human fungal pathogen Aspergillus   fumigatus |
+|  | 4:50pm | Jumpei Ito | Predicting Viral Antigenicity, Fitness, and Evolution |
+| **Lightning talks II** | 5:10pm |  |  |
 |  |  |  |  |
-| **Standing dinner** | TBC |  |  |
+| **Standing dinner** | 6:00pm |  |  |
 
 Day 3 (28th November)
 ---------------------
