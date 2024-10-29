@@ -29,7 +29,7 @@ Please note that your registration will not be confirmed until this payment has 
 Please note the payment link will not be sent immediate after your registration.
 We will send the relevant links for part two in October and November.
 
-_NB: If you are an ECR applying for a fee-waiver and have indicated this, we will hold your space until abstract decisions have been made._
+_Cancellation: We will be unable to offer refunds for registrations after 31st October._
 
 ### Reduced registration fees
 
