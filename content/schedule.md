@@ -28,15 +28,15 @@ Day 2 (27th November)
 
 |  | Time | Speaker | Topic |
 |---|---|---|---|
-| **Session 2: Selection and evolution** | 10am | Liam Shaw | The bacterial pan-immune system and selective pressures on plasmids |
-|  | 10:20am | Rebecca Gladstone | Diversification of ABC transporter-dependent capsular K-loci in E. coli  |
-|  | 10:40am | Gherard Batisti Biffignandi | Genes on the lam: how fast can AMR-MGEs spread in a bacterial population? |
-| Break | 10:50am |  |  |
-|  | 11:20am | Adam Dinan | A pan-transcriptomic view of bacterial evolution |
-|  | 11:30am | Sam Horsfield | A Large Language Model for studying bacterial genome architecture,   population structure and epidemiology |
-|  | 11:40am | Evangelos Mourkas |        Evolution of   serum resistance in Campylobacter jejuni bacteremia isolates |
+| **Session 2: Selection and evolution** | 10:30am | Liam Shaw | The bacterial pan-immune system and selective pressures on plasmids |
+|  | 10:50am | Rebecca Gladstone | Diversification of ABC transporter-dependent capsular K-loci in E. coli  |
+|  | 11:10am | Gherard Batisti Biffignandi | Genes on the lam: how fast can AMR-MGEs spread in a bacterial population? |
+| Break | 11:20am |  |  |
+|  | 11:50am | Adam Dinan | A pan-transcriptomic view of bacterial evolution |
+|  | 12:00am | Sam Horsfield | A Large Language Model for studying bacterial genome architecture,   population structure and epidemiology |
+|  | 12:10am | Evangelos Mourkas | Evolution of serum resistance in Campylobacter jejuni bacteremia isolates |
 |  |  |  |  |
-| Lunch | 12:00pm |  |  |
+| Lunch | 12:30pm |  |  |
 |  |  |  |  |
 | **Session 3: Emerging infectious diseases and pandemics** | 3:30pm | Jemma Geoghegan | Tracking SARS-CoV-2 in New Zealand: insights from genomics |
 |  | 3:50pm | Gemma Murray | The emergence of a zoonotic bacterial pathogen from within the pig   respiratory microbiota |
