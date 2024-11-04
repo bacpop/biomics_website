@@ -8,7 +8,7 @@ weight: 1
 Key information and dates:
 - Dates: 26-28th November 2024.
 - Location: [National Museum of Nature and Science](https://www.kahaku.go.jp/english/), Ueno Park, Tokyo, Japan.
-- Registration: [Open until 31st October](https://forms.gle/3LD7C8ZuMvqN8zQc9).
+- Registration: Now closed. If you have registered and haven't heard from us, please contact us.
 
 The event will be
 hybrid: in-person and virtual (real-time or on-demand) participation will both be possible.
