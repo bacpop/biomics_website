@@ -11,7 +11,7 @@ Day 1 (26th November)
 |  |  |  |  |
 | Conference opening | 1:30pm | John Lees |  |
 |  |  |  |  |
-| Opening talk | 1:45pm | Christophe Fraser | HIV prevention in Africa informed by analyses of within and between host pathogen   diversity |
+| Opening talk | 1:45pm | Christophe Fraser | Transmission studies and epidemiology of HIV informed from analyses of within and between host pathogen diversity |
 |  |  |  |  |
 | **Session 1: Metagenomics** | 2:15pm | Sarah Buddle | Evaluating metagenomics and targeted approaches   for diagnosis and surveillance of viruses       |
 |  | 2:35pm | Guillaume Meric | Exploring links between microbial infections, gut microbes and health   using large datasets |
