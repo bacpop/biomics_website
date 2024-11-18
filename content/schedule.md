@@ -34,7 +34,7 @@ Day 2 (27th November)
 | Break | 11:20am |  |  |
 |  | 11:50am | Adam Dinan | A pan-transcriptomic view of bacterial evolution |
 |  | 12:00am | Sam Horsfield | A Large Language Model for studying bacterial genome architecture,   population structure and epidemiology |
-|  | 12:10am | Evangelos Mourkas | Evolution of serum resistance in Campylobacter jejuni bacteremia isolates |
+|  | 12:10am | Evangelos Mourkas | Evolution of high resistance in Campylobacter in Peru |
 |  |  |  |  |
 | Lunch | 12:30pm |  |  |
 |  |  |  |  |
