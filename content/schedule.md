@@ -55,17 +55,17 @@ Day 3 (28th November)
 |---|---|---|---|
 | **Session 4: Pangenomes and tools** | 10:30am | Leah Roberts | Using pangenomes to investigate plasmid evolution on a miniscule   timescale |
 |  | 10:50am | Chao Yang | Macrogenetic Atlas of Prokaryotes |
-|  | 11:00am | Jane Hawkey | Developing a robust approach to determining plasmid transmission in the   hospital setting |
+|  | 11:00am | Caitlin Collins | Molecular clocks in the accessory genome?: Investigating rates of gene gain, loss, and selection |
 | Break | 11:10am |  |  |
-|  | 11:30am | Caitlin Collins | Molecular clocks in the accessory genome?: Investigating rates of gene   gain, loss, and selection |
-|  | 11:40am | Daria Frolova | Applying rearrangement distances to enable plasmid epidemiology with   pling |
+|  | 11:30am | Daria Frolova | Applying rearrangement distances to enable plasmid epidemiology with pling |
+|  | 11:40am | Jane Hawkey | Developing a robust approach to determining plasmid transmission in the hospital setting |
 |  | 11:50am | Marco Molari | Evolution of genome structure and content in closely-related bacteria |
 |  |  |  |  |
 | Lunch | 12:10pm |  |  |
 |  |  |  |  |
 | **Session 5: Modelling** | 2pm | Hsiao-Han Chang | Using Identical by Descent (IBD) to Infer Infectious Disease   Transmission: What Does IBD Really Mean? |
 |  | 2:20pm | Danielle Ingle | Bacterial phylodynamics of drug-resistant pathogens |
-|  | 2:40pm | Jonathan Pekar | The recency and geographical origins of the bat viruses ancestral to   SARS-CoV and SARS-CoV-2 |
+|  | 2:40pm | Jonathan Pekar | The recency and geographical origins of the bat viruses ancestral to SARS-CoV and SARS-CoV-2 |
 | Break | 2:50pm |  |  |
 |  | 3:10pm | Chris Ruis | Inferring host species of pathogens through mutational spectra |
 |  | 3:20pm | Seungwon Ko | Epistasis analysis across bacterial pangenomes using Continuous-Time   Markov Models |
