@@ -2,7 +2,7 @@
 title: "More information"
 header_menu_title: "About"
 navigation_menu_title: "About"
-weight: 5
+weight: 50
 header_menu: true
 ---
 
@@ -19,7 +19,7 @@ Visa details can be found on the [ministry of foreign affairs website](https://w
 including a [list of nationalities which can obtain an exemption](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html).
 
 #### Agenda
-A [provisional schedule]({{< ref "schedule" >}} "schedule") is now available.
+A [schedule]({{< ref "schedule" >}} "schedule") is available.
 
 
 #### Hybrid attendance
