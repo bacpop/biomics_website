@@ -1,4 +1,4 @@
-baseURL = "https://smbepangenomes.bacpop.org/"
+baseURL = "https://biomics.bacpop.org/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "SMBE Satellite Workshop on Pathogen Pangenome Evolution"
+title = "BIOMICS hackathon at EMBL-EBI"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -35,10 +35,10 @@ title = "SMBE Satellite Workshop on Pathogen Pangenome Evolution"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "SMBE Satellite Workshop on Pathogen Pangenome Evolution"
+    title = "BIOMICS hackathon at EMBL-EBI"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Academic conference held in Tokyo, Japan 2024"
+    description = "Hackathon held in Hinxton 2026"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -56,7 +56,7 @@ title = "SMBE Satellite Workshop on Pathogen Pangenome Evolution"
     showContactIcons = false
 
     [params.meta]
-        keywords = "SMBE, pangenomes, japan, evolution, transmission, bacteria, pangenomes"
+        keywords = "hackathon, biomics, biomedicine, bioinformatics, programming"
 
     [params.contact]
-        email = "smbe"
+        email = "biomics"
