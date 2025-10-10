@@ -4,4 +4,4 @@ weight: 100
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[smbe-pangenomes at bacpop dot org](mailto:smbe-pangenomes@bacpop.org)
+{{<icon class="fa fa-envelope">}}&nbsp;[biomics at bacpop dot org](mailto:biomics@bacpop.org)
