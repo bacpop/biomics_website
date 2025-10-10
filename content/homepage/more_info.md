@@ -10,7 +10,6 @@ The hackathon will take place at EMBL's European Bioinformatics Institute [(EMBL
 
 
 #### Agenda
-<!-- A [schedule]({{< ref "schedule" >}} "schedule") is available. -->
 A schedule will be made available in the following weeks/months.
 
 
