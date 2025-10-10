@@ -1,6 +1,6 @@
 ---
-title: "SMBE meetings"
+title: "BIOMICS project"
 weight: 102
 header_menu: true
-external: https://www.smbe.org/smbe/MEETINGS/SatelliteInterdisciplinaryRegionalMeetings/Schedule.aspx
+external: https://biomics.gimm.pt/
 ---
