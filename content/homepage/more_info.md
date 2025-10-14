@@ -12,7 +12,7 @@ This hackathon is open to anyone affiliated with one of the BIOMICS institutes. 
 
 
 #### Agenda
-A detailed schedule will be made available closer to the dates of the hackathon.
+A [provisional schedule]({{< ref "schedule" >}} "schedule") is available.
 
 Generally, the hackathon will consist of 4-5 sessions of group work, bookended by presentations about the problem being worked on.
 
