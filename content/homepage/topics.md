@@ -4,7 +4,7 @@ weight: 5
 header_menu: true
 ---
 
-The hackathon will feature projects the following broad themes:
+The hackathon will feature projects on the following broad themes:
 
 - Biological simulators (e.g. for population genetics).
 - Machine learning/deep learning.
