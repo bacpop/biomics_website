@@ -6,7 +6,7 @@ body {
 
 #blog-logo {
   display: block;
-  max-height: 150px;
+  max-height: 300px;
   width: auto;
   margin: 0 auto;
   line-height: 0;
@@ -43,6 +43,7 @@ body {
 
   .title-and-description-guard {
     margin: auto;
+    margin-top: 20px;
     padding: 0.6em;
     background-color: var(--cover-title-and-description-guard-bg-color);
     border-radius: 25px;
