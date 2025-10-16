@@ -13,4 +13,4 @@ The BIOMICS consortium is composed of the following institutes:
 
 We are grateful to the European Union's Horizon programme, without which we would not be able to organise this hackathon.
 
-![https://cordis.europa.eu/project/id/101159926](images/eufunding.png)
+[![https://cordis.europa.eu/project/id/101159926](images/eufunding.png)](https://cordis.europa.eu/project/id/101159926)
