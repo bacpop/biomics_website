@@ -4,6 +4,8 @@ weight: 10
 header_menu: false
 ---
 
+[![https://biomics.gimm.pt/](images/biomics_horizontal_logo.png)](https://biomics.gimm.pt/)
+
 The BIOMICS consortium is composed of the following institutes:
 
 - The Gulbenkian Institute for Molecular Medicine [(GIMM)](https://gimm.pt/)
