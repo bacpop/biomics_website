@@ -21,7 +21,3 @@ We will also plan some social events during the hackathon, including a tour of t
 #### Attendance Bursaries
 There is some funding for partial or full attendance bursaries, but we cannot guarantee assistance to all applicants. 
 Please select 'yes' during the submission of the forms, for both project submission and attendee registration.
-
-### Accommodation
-Rooms at the Wellcome Genome Campus conference centre have been put on hold and can be booked online with a code, which we can provide after registration (payment will be required). Participants may alternatively book accommodation nearby or in Cambridge. 
-
