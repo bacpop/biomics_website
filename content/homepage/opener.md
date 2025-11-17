@@ -11,4 +11,4 @@ Key information and dates:
 - Attendee registration is **open**! Please register using the form [here](https://www.eventsforce.net/embl/219/register).
 - Attendee registration closes: January 15th, 2025.
 - Funding: Some travel bursaries will be available for project submitters and attendees. See forms for details. 
-- Accommodation: please find details about accommodation [below](https://biomics.bacpop.org/#accommodation).
+- Accommodation: please find details about accommodation [below](#accommodation).
