@@ -60,3 +60,9 @@ title = "BIOMICS hackathon at EMBL-EBI"
 
     [params.contact]
         email = "biomics"
+
+#Enable inline HTML for MAGMA project
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
