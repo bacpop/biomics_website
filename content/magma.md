@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td width="30%">
-      <img src="../static/images/MAGMA/MAGMA_logo.png" alt="MAGMA logo" width="100%">
+      <img src="/images/MAGMA/MAGMA_logo.png" alt="MAGMA logo" width="100%">
     </td>
   </tr>
 </table>
@@ -68,19 +68,19 @@ The aim was to identify the key constraints shaping community structure and bact
 **FISH quantification outputs**  
 - Spatial quantification outputs from FISH processing that support direct comparison with simulation snapshots or other FISH images.
 <p align="center">
-  <img src="../static/images/MAGMA/fish.png" width="45%">
-  <img src="../static/images/MAGMA/fish_ratios.png" width="50%">
+  <img src="/images/MAGMA/fish.png" width="45%">
+  <img src="/images/MAGMA/fish_ratios.png" width="50%">
 </p>
 
 **Model with vs without constraints**  
 - Omics workflow to integrate DE with the GEMs. Example output using [MetaBiome](https://journals.asm.org/doi/10.1128/msystems.01652-24) with our transcriptomics-constrained models.
-  ![metabiome_with_constraints](../static/images/MAGMA/metabiome_with_constraints.png)
+  ![metabiome_with_constraints](/images/MAGMA/metabiome_with_constraints.png)
 
 
 **ABM simulation snapshot**  
 - Snapshot of an interactive ABM environment allowing multiple shapes for rapid hypothesis testing under different constraints and parameter settings.
 <p align="center">
-  <img src="../static/images/MAGMA/magma_interactive.png" width="80%">
+  <img src="/images/MAGMA/magma_interactive.png" width="80%">
 </p>
 ---
 
