@@ -4,7 +4,7 @@ Alessandro Lussana¹, Alistair Rust¹, Erin Chung², Filipe Rodrigues³, Pedro S
 
 1. EMBL-EBI, Hinxton, UK
 2. EMBL, Heidelberg, Germany
-3. AccelBio, Cantanhede, Portugal
+3. AccelBio, Lisbon, Portugal
 4. Universidade de Lisboa, Lisbon, Portugal
 
 ## Project overview
@@ -20,9 +20,9 @@ Deploying **self.dna** involves cloning a GitHub repository to build the Docker 
 Currently, **self.dna** accepts the upload of a Variant Call Format (VCF) file. The VCF is stored and used to build a relational database, which can be read and written by the analysis modules. Such database persists on disk and can be ported to different instances of the app.
 
 * 🌐 [DEMO](https://selfdna.alussana.net)
-* 💻 [Repository for the Hackaton](https://github.com/alussana/self.dna-biomics) 
+* 💻 [Repository for the Hackathon](https://github.com/alussana/self.dna-biomics) 
 
-## Hackaton achievements
+## Hackathon achievements
 
 We made significant progress in transforming **self.dna** from a simple proof of concept demo, based on a single script, into a maintainable, community-driven piece of software. The main changes involved:
 
@@ -40,7 +40,7 @@ We made significant progress in transforming **self.dna** from a simple proof of
 
 ## TODO
 
-This hackaton generated a strong momentum in the development of this project. Natural next steps to finalize the work will be:
+This hackathon generated a strong momentum in the development of this project. Natural next steps to finalize the work will be:
 
 * Merge branches and refine the main codebase
 * Write community guidelines and documentation for development of the analysis modules
