@@ -12,7 +12,7 @@ main() {
   DART_SASS_VERSION=1.97.1
   GO_VERSION=1.25.5
   # IMPORTANT: match local. Newer versions fail with some of the current theme
-  HUGO_VERSION=0.145.0
+  HUGO_VERSION=0.100.2
   NODE_VERSION=24.12.0
 
   export TZ=Europe/London
