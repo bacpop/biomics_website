@@ -58,3 +58,12 @@ Day 3 (Wednesday 25th February)
 | **Lunch**               | 11:45am |
 |                         |         |
 | **End of hackathon**    | 1:00pm  |
+
+Post-event (Thurs 12th March)
+-----------------------------
+
+|                         | Time    |
+|-------------------------|---------|
+|                         |         |
+| Closed organisers debrief lunch          | 12:30pm  |
+|                         |         |
